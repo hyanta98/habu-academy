@@ -1,5 +1,5 @@
-[_tb_system_call storage=system/_01zukan.ks]
-
+[preload  storage="./data/bgimage/HA/prot図鑑.png"  ]
+[return]
 *zukan
 
 [bg  time="1000"  method="crossfade"  storage="HA/prot図鑑.png"  ]
