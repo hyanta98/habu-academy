@@ -1,5 +1,5 @@
-[_tb_system_call storage=system/_title_screen.ks]
-
+[preload  storage="./data/bgimage/HA/protタイトル01.png"  ]
+[return]
 
 ;==============================
 ; タイトル画面
