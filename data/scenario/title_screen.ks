@@ -20,25 +20,14 @@
 ;タイトル表示
 
 
-*title
-
-[bg  storage="HA/protタイトル01.png"  ]
-[clickable  storage="01zukan.ks"  x="210"  y="553"  width="680"  height="110"  target=""  _clickable_img=""  ]
-[clickable  storage="02seitai.ks"  x="210"  y="730"  width="680"  height="110"  target=""  _clickable_img=""  ]
-[clickable  storage="03chuui.ks"  x="210"  y="902"  width="680"  height="110"  target=""  _clickable_img=""  ]
-[clickable  storage="04kamu.ks"  x="210"  y="1085"  width="680"  height="110"  target=""  _clickable_img=""  ]
-[clickable  storage="05shiken.ks"  x="210"  y="1268"  width="680"  height="110"  target=""  _clickable_img=""  ]
-[clickable  storage="06kouchou.ks"  x="210"  y="1453"  width="680"  height="110"  target=""  _clickable_img=""  ]
-[s  ]
-
-;-------ボタンが押されたときの処理
-
-
+[bg  storage="タイトル01.png"  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="Opening.01.m4a"  ]
+[jump  storage="title_screen.ks"  target="*start"  ]
 *start
 
 [cm  ]
 [tb_keyconfig  flag="1"  ]
-[jump  storage="scene1.ks"  target=""  ]
+[jump  storage="scene1.ks"  target="*title02"  ]
 [s  ]
 
 ;--------ロードが押された時の処理

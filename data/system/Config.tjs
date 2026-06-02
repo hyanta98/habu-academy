@@ -2,8 +2,8 @@
 ;debugMenu.visible=false
 ;configSave=webstorage
 ;global.config_version=6.00
-;System.title=HabuAcademy
-;projectID=HabuAcademy
+;System.title=HabuAcademy02
+;projectID=HabuAcademy02
 ;game_version=0.0
 ;ScreenRatio=fix
 ;patch_apply_auto=true
@@ -11,8 +11,8 @@
 ;useCamera=true
 ;use3D=false
 ;KeepSpaceInParameterValue=2
-;scWidth=1080
-;scHeight=1920
+;scWidth=720
+;scHeight=1080
 ;vchat=false
 ;vchatMenuVisible=false
 ;chSpeed=30
