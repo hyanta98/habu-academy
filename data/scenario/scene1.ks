@@ -7,7 +7,7 @@
 *title02
 
 [bg  storage="スタート01.png"  time="1000"  ]
-[clickable  storage="zukan.ks"  x="156"  y="327"  width="400"  height="75"  target=""  _clickable_img=""  ]
+[clickable  storage="zukan.ks"  x="156"  y="327"  width="400"  height="75"  target="*zukan"  _clickable_img=""  ]
 [clickable  storage="scene1.ks"  x="156"  y="432"  width="400"  height="75"  target=""  _clickable_img=""  ]
 [clickable  storage="scene1.ks"  x="156"  y="537"  width="400"  height="75"  target=""  _clickable_img=""  ]
 [clickable  storage="scene1.ks"  x="156"  y="642"  width="400"  height="75"  target=""  _clickable_img=""  ]
