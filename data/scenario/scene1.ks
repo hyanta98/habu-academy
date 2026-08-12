@@ -1,6 +1,5 @@
 [_tb_system_call storage=system/_scene1.ks]
 
-[cm  ]
 *title01
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="Opening.01.m4a"  ]
