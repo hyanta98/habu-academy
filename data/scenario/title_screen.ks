@@ -1,4 +1,5 @@
-[preload  storage="./data/bgimage/タイトル01.png"  ]
+[_tb_system_call storage=system/_title_screen.ks]
+
 
 ;==============================
 ; タイトル画面
