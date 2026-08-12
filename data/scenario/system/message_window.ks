@@ -4,7 +4,7 @@
 
 
 		
-			[position page=fore margint=45 marginl=10 marginr=20 marginb=10 vertical=false opacity="180" radius="0" color="0x000000" ]
+			[position page=fore margint=10 marginl=10 marginr=20 marginb=10 vertical=false opacity="180" radius="0" color="0x000000" ]
 		
 
 		[ptext name="chara_name_area" layer="message0" color=0xFFFFFF size=26 x=30 y=636 bold="bold" edge="undefined" shadow="undefined"]
