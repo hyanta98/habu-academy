@@ -1,4 +1,12 @@
-[_tb_system_call storage=system/_zukan.ks]
+[preload  storage="./data/bgimage/図鑑01.png"  ]
+[preload  storage="./data/bgimage/ヘビ図鑑/habu.png"  ]
+[preload  storage="./data/bgimage/ヘビ図鑑/hime.png"  ]
+[preload  storage="./data/bgimage/ヘビ図鑑/gara.png"  ]
+[preload  storage="./data/bgimage/ヘビ図鑑/hyan.png"  ]
+[preload  storage="./data/bgimage/ヘビ図鑑/aka.png"  ]
+[preload  storage="./data/bgimage/ヘビ図鑑/ryu.png"  ]
+[preload  storage="./data/bgimage/ヘビ図鑑/taka.png"  ]
+[preload  storage="./data/bgimage/ヘビ図鑑/meku.png"  ]
 
 *zukan
 
